@@ -1,0 +1,17 @@
+@media (max-width: 1000px) {
+    #navBarItems {
+        display: none;
+    }
+
+    #sideBarMenu {
+        display: block;
+    }
+
+    #mainNavDiv {
+        justify-content: space-between;
+    }
+}
+
+.active {
+    color: #ff4136;
+}

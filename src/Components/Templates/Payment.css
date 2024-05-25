@@ -1,0 +1,13 @@
+@media (max-width: 1000px) {
+    #paymentMainDiv {
+        flex-direction: column-reverse;
+    }
+
+    #paymentSubDivs {
+        width: 100%;
+    }
+
+    #paymentWrapper {
+        width: 90%;
+    }
+}

@@ -1,0 +1,14 @@
+@media (max-width: 1200px) {
+    #aboutMainDiv {
+        width: 100%;
+    }
+}
+
+@media (max-width: 1000px) {
+    #aboutMainDiv {
+        flex-direction: column;
+    }
+    #aboutSubDiv {
+        width: 90%;
+    }
+}

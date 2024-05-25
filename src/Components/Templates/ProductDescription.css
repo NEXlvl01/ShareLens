@@ -1,0 +1,24 @@
+@media (max-width: 1500px) {
+    #productDescMainDiv {
+        width: 90%;
+    }
+}
+
+@media (max-width: 1000px) {
+    #productDescSub1 {
+        flex-direction: column;
+        gap: 40px;
+    }
+    #productDescItems {
+        width: 100%;
+    }
+    #productDescTitle {
+        text-align: center;
+    }
+}
+
+@media (max-width: 500px) {
+    #rentalDateDiv {
+        flex-wrap: wrap;
+    }
+}

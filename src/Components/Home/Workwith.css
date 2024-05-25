@@ -1,0 +1,28 @@
+@media (max-width: 1000px) {
+    #workWithMainDiv1 {
+        flex-direction: column;
+        align-items: center;
+        gap: 80px;
+    }
+
+    #workSubDiv1 {
+        width: 80%;
+    }
+
+    #workMainDiv2 {
+        flex-direction: column;
+    }
+
+    #workSubDiv2 {
+        width: 80%;
+    }
+    
+    #workSubDiv3 {
+        gap: 60px;
+    }
+
+    #logosDiv {
+        justify-content: center;
+        padding: 0px 20px;
+    }
+}

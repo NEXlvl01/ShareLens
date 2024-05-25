@@ -1,0 +1,17 @@
+@media (max-width: 1500px) {
+    #confirmMainDiv {
+        width: 90%;
+    }
+}
+
+@media (max-width: 900px) {
+    #confirmMainDiv {
+        flex-direction: column;
+        height: fit-content;
+        padding: 30px 0;
+    }
+
+    #confirmSubDiv {
+        width: 100%;
+    }
+}

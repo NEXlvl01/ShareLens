@@ -1,0 +1,59 @@
+@media(max-width: 1000px) {
+    #footerFirstMainDiv {
+        flex-direction: column;
+        gap: 40px;
+    }
+
+    #footerFirstSubDiv {
+        width: 100%;
+    }
+    
+    #footerSubText1 {
+        width: 100%;
+    }
+    #footerSubText2 {
+        width: 100%;
+    }
+    
+}
+
+@media (max-width: 550px) {
+    #footerFirstMainDiv {
+        padding: 40px;
+        width: 80%;
+    }
+
+    #footerSubText1 {
+        font-size: 30px;
+    }
+
+    #footerSubText2 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 800px) {
+    #footerMainDiv2 {
+        flex-direction: column;
+        gap: 50px;
+    }
+
+    #footerLogoDiv {
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #footerOptDiv {
+        flex-direction: column;
+        width: 100%;
+        gap: 30px;
+    }
+
+    #footerOptions {
+        width: 100%;
+    }
+    #footerQuote {
+        text-align: center;
+    }
+}
